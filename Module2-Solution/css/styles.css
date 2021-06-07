@@ -40,7 +40,7 @@ h2{
 {
 	clear: both;
 	padding: 10px;
-	overflow: auto;
+
 
 }
 
@@ -62,7 +62,7 @@ border-left: #000000 2px solid;
 	padding:0px;
 	box-sizing: border-box;
 	margin: 0px;
-	
+	overflow: auto;
 	
 	}
 
@@ -98,6 +98,7 @@ margin: 5px;
 	{
 		float: left;
 		padding:0px;
+		overflow: auto;
 		
 		
 	}
@@ -127,6 +128,7 @@ margin: 5px;
 		float: left;
 		padding:0px;
 		margin: 0px;
+		overflow: auto;
 
 		
 	}
