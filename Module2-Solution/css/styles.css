@@ -40,6 +40,7 @@ h2{
 {
 	clear: both;
 	padding: 10px;
+	overflow: auto;
 
 }
 
